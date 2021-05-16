@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1621164446 source:c:\users\asus\desktop\c++\projet\motus\main.cpp
+	<iostream>
+	"Joueur.h"
+	"Lettre.h"
+	"Tentative.h"
+	<vector>
+	<algorithm>
+
+1621164214 c:\users\asus\desktop\c++\projet\motus\include\joueur.h
+	<iostream>
+	<string>
+
+1621087939 c:\users\asus\desktop\c++\projet\motus\include\tentative.h
+	<iostream>
+	<string>
+
+1621093776 c:\users\asus\desktop\c++\projet\motus\include\lettre.h
+	<string>
+	<iostream>
+	<vector>
+
+1621164214 source:c:\users\asus\desktop\c++\projet\motus\src\joueur.cpp
+	"Joueur.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1621117695 source:c:\users\asus\desktop\c++\projet\motus\src\lettre.cpp
+	"Lettre.h"
+	<string>
+	<iostream>
+
+1621091566 source:c:\users\asus\desktop\c++\projet\motus\src\tentative.cpp
+	"Tentative.h"
+	<iostream>
+	<string>
+
